@@ -1,0 +1,1 @@
+select * from ODS_DB.HR.CUSTOMER
